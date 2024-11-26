@@ -14,3 +14,12 @@ uname -a
 ```
 Linux (none) 4.9.170 #15 SMP PREEMPT Thu Jun 29 17:35:00 CST 2023 aarch64 GNU/Linux
 ```
+# Boot OrangePi OS
+lsblk
+```
+mtdblock 16m disk
+mmcblk0 112g disk
+mmcblk0p1 117 part /
+zram0
+zram1
+```
